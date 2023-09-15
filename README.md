@@ -18,4 +18,4 @@ part-2
 
 ## Misc
 
-- [Bun benchmark test in 2022-07-17](https://github.com/shrekuu/try-bun-2023)
+- [Bun benchmark test in 2023-09-15](https://github.com/shrekuu/try-bun-2023)
