@@ -13,3 +13,9 @@ part-1
 
 part-2
 ![part-2](./screenshots/part-2.png)
+
+
+
+## Misc
+
+- [Bun benchmark test in 2022-07-17](https://github.com/shrekuu/try-bun-2023)
